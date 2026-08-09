@@ -25,7 +25,7 @@ This project is a my personal portfolio website that introduces myself. It shows
 - SVG, PNG, and JPG Images
 
 ## Live Website
-https://kylacanlale26.github.io/Personal-Portfolio-Website/
+https://kylacanlale26.github.io/Personal-Introduction-Website/
 
 ## GitHub Repository
 https://github.com/kylacanlale26/Personal-Introduction-Website.git
