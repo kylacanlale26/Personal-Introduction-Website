@@ -28,7 +28,7 @@ This project is a my personal portfolio website that introduces myself. It shows
 https://kylacanlale26.github.io/Personal-Portfolio-Website/
 
 ## GitHub Repository
-https://github.com/kylacanlale26/Personal-Portfolio-Website.git
+https://github.com/kylacanlale26/Personal-Introduction-Website.git
 
 ## Screenshots of the Website
 <img width="1988" height="1118" alt="home-page" src="https://github.com/user-attachments/assets/a482af6c-fbb1-4146-848e-247f56d0a85b" />
