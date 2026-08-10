@@ -6,7 +6,7 @@ Course: BSIT
 Section: 3A
 
 ## Project Description
-This project is my personal portfolio website that introduces myself. It shows a brief description of who I am, my educational background, the skills I continue to develop, my personal hobbies and interests, the career paths that I wish to pursue, and lastly, my contact information. This project aims to provide a simple and organized way for others to learn more about me.
+This project is my personal portfolio website that introduces myself. It shows a brief description of who I am, my educational background, the skills I continue to develop, my personal hobbies and interests, and the career paths that I wish to pursue, and lastly, my contact information. This project aims to provide a simple and organized way for others to learn more about me.
 
 ## Features of the Websites
 - Personal Profile
